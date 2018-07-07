@@ -1,5 +1,5 @@
 # V
 
-Print the mould template on A3 making sure the correct sizes as on the template below in mm.
+Below mold diagram is based on many online sources.
 
-![alt text](http://www.makingtheviolin.com/Building/Mould/1.svg)
+https://github.com/tretos53/Violin/blob/master/mold.pdf
