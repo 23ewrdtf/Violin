@@ -18,6 +18,9 @@ The narrower waist will give you a quicker response while a wider one will offer
 
 The wider and deeper the flame the mellower and deeper the sound the maple is what gives a master violin its deep power or its masculine voice.
 
-Spome useful links I found:
-http://www.platetuning.org/A_Successful_First_Violin_A2.pdf
+Some useful links I found:
+
+http://www.platetuning.org/html/woodworker_-_first_violin.html
+
 https://www.youtube.com/user/kevinleeluthier/videos
+
