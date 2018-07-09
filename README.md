@@ -4,6 +4,8 @@ Below diagram of the mould is based on many online sources.
 
 https://github.com/tretos53/Violin/blob/master/mold.pdf
 
+From: https://www.youtube.com/user/kevinleeluthier/videos
+
 The bridge should be directly centred on the notches of the f-holes (florentines). If notches are uneven, the left notch takes priority.
 
 Moving this upper base side out 0.5mm will make the instrument more strident and brilliant and sparkling. Anything over 1mm and it will sound like fingernails on the chalkboard.
@@ -18,9 +20,9 @@ The narrower waist will give you a quicker response while a wider one will offer
 
 The wider and deeper the flame the mellower and deeper the sound the maple is what gives a master violin its deep power or its masculine voice.
 
+
 Some useful links I found:
 
 http://www.platetuning.org/html/woodworker_-_first_violin.html
 
-https://www.youtube.com/user/kevinleeluthier/videos
 
