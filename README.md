@@ -25,4 +25,8 @@ Some useful links I found:
 
 http://www.platetuning.org/html/woodworker_-_first_violin.html
 
+http://davidofsantabarbara.blogspot.com/2016/08/breaking-stradivari-code.html
 
+https://www.youtube.com/watch?v=JGBCHyy-xh4
+
+Form is 4.5mm shorter and narrower than the violin
