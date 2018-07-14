@@ -1,6 +1,6 @@
 # Notes on making a violin.
 
-Below diagram of the mould is based on many online sources.
+Below diagram of the mould is based on many online sources. It is based on some of my calcualtions, it's not correct and not tested.
 
 https://github.com/tretos53/Violin/blob/master/mold.pdf
 
