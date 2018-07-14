@@ -32,3 +32,7 @@ https://www.youtube.com/watch?v=JGBCHyy-xh4
 Form is 4.5mm shorter and narrower than the violin
 
 Sound post should be Xmm from the treble foot of the bridge where X is the thickness of the belly where bridge is located.
+
+
+Ribs - 1mm
+Lining 2mm by 5mm
