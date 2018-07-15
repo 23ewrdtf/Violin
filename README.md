@@ -32,10 +32,21 @@ https://www.youtube.com/watch?v=JGBCHyy-xh4
 Form is 4.5mm shorter and narrower than the violin
 
 Sound post should be Xmm from the treble foot of the bridge where X is the thickness of the belly where bridge is located.
-
+If your top-plate thickness is less than 3/16i1'usethe measur�nient of your
+thickness to determine where the post will be. I think that it can be accepted as a
+rule·of thumb, that whatever the thickness of the top� that "dll be the distance the
+posVwill be back from the bridge. 
 
 Ribs - 1mm
 Lining 2mm by 5mm
 
 lINGINS AND CORNER BLOCKS WERE ALWAYS FORMED OUT OF WELL SEASONED BROWN WilLOW, NOT WHITE
 WILLOW� FOllOWING CLOSELY ONCE AGAIN THE RULE OF STRADIVARIUS, 
+
+"You CAN MAKE A STRADIvARIUS VIOLIN" BY JOSEPH V. READ PROCURED fROM POPULAR MECHANICS.
+A REAL BOOK fOR THE BEGINNER. FULL SIZE MAPS Of EVERY PART Of THE VIOLIN.
+By CAREfULLY fOLLOW� I NG THESE, ONE CAN BE SURE TO PRODUCE A GOOD INS TRUMENT PROV I DING HE USES
+WE CONSIDER THIS BOOK A "MUST" fOR THE PERSON WHO IS MAKING HIS fiRST VIOLIN. 
+
+Strad f s time varrd.,sh Was made under pressure, not niuch but - some, which resul te,in d
+a totally different action in 'producing the varnish.
