@@ -36,3 +36,6 @@ Sound post should be Xmm from the treble foot of the bridge where X is the thick
 
 Ribs - 1mm
 Lining 2mm by 5mm
+
+lINGINS AND CORNER BLOCKS WERE ALWAYS FORMED OUT OF WELL SEASONED BROWN WilLOW, NOT WHITE
+WILLOW� FOllOWING CLOSELY ONCE AGAIN THE RULE OF STRADIVARIUS, 
