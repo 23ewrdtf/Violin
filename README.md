@@ -50,3 +50,11 @@ WE CONSIDER THIS BOOK A "MUST" fOR THE PERSON WHO IS MAKING HIS fiRST VIOLIN.
 
 Strad f s time varrd.,sh Was made under pressure, not niuch but - some, which resul te,in d
 a totally different action in 'producing the varnish.
+
+
+--------------------------------------
+1 oncia = 18.66 mm - , this unit was identified as
+the Roman oncia, a unit used by architects, engineers and craftsmen
+from the Renaissance to the beginning of the 19th century
+http://www.htl-hallstatt.at/fileadmin/content/bilder/aktuelles/journal_cultural_heritage/Artikel_Elsevier_Simone_Zopf.pdf
+
