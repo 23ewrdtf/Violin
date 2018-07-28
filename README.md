@@ -63,7 +63,7 @@ Hard maple.
 
 ```
 Mold is 4.5mm smaller from the eternal edge of the violin
-
+```
 <p align="center">
   <img src="https://github.com/tretos53/Violin/raw/master/images/Edge_dimensions_violin.JPG" width="350" title="hover text">
   <img src="https://github.com/tretos53/Violin/raw/master/images/Edge_dimensions_violin.JPG" width="350" alt="accessibility text">
