@@ -59,10 +59,13 @@ The soundpost is of strong narrow grained spruce.
 Hard maple. 
 ```
 
+
 ## Template or Mold or Mould or Form
 
 ```
-Mold is 4.5mm smaller from the eternal edge of the violin
+Mold is the form around which the ribs are built, and from which the whole outline of the instrument is derived.
+Mold is made out of plywood, between 12 and 18mm thick.
+Mold is 4.5mm smaller from the eternal edge of the violin. It is mak
 ```
 <p align="center">
   <img src="https://github.com/tretos53/Violin/raw/master/images/Edge_dimensions_violin2.JPG">
