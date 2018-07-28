@@ -71,8 +71,11 @@ Mold is 4.5mm smaller from the eternal edge of the violin. It is mak
   <img src="https://github.com/tretos53/Violin/raw/master/images/Edge_dimensions_violin2.JPG">
 </p>
 
+### Glue for blocks to mold
 
-
+```
+The only type of glue to use for a violin is the old-fashioned animal-skin variety. The best of these is rabbit skin glue.
+```
 
 
 
