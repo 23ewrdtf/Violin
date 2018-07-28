@@ -1,5 +1,75 @@
 # Notes on making a violin.
 
+#### Materials
+
+### Front (or belly)
+
+```
+The finest, air-dried, highly figured maple 50 years old or more is now virtually unobtainable, unless you are lucky enough to know of a violin maker who is retiring and disposing of his stock.
+
+It is desirable that the wood for the major parts be quarter or radially sawn (or split if you can get it, although this carries quite a
+premium).
+
+For the front (or belly), straight grained spruce is required. A fairly fine to medium  grain width is ideal. The front is almost always made from two pieces; the wedge of timber is opened out like the pages of a book (figure 3). As this joint is on the centre line of the instrument, it makes a useful datum line, as does the back joint if a two-piece back is being used.
+```
+
+### Back (or ribs as they are more commonly known)
+
+```
+The back, sides (or ribs as they are more commonly known) and head or scroll are all made from maple or sycamore
+```
+
+### Internal Blocks
+
+```
+The internal blocks are made of either spruce or willow.
+```
+
+### Linings
+
+```
+Willow
+```
+
+### Bassbar
+
+```
+The bassbar is always of spruce, of similar or slightly narrower grain than the belly.
+```
+
+### Fingerboard, pegs, nut, tailpiece, chinrest, saddle and endpin.
+
+```
+Ebony
+```
+
+### Soundpost
+
+```
+The soundpost is of strong narrow grained spruce.
+```
+
+### Bridge
+
+```
+Hard maple. 
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Below diagram of the mould is based on many online sources. It is based on some of my calcualtions, it's not correct and not tested.
 
 https://github.com/tretos53/Violin/blob/master/mold.pdf
