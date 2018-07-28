@@ -1,6 +1,6 @@
 # Notes on making a violin.
 
-#### Materials
+## Materials
 
 ### Front (or belly)
 
