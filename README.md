@@ -75,6 +75,10 @@ Mold is 4.5mm smaller from the eternal edge of the violin. It is mak
 
 ```
 The only type of glue to use for a violin is the old-fashioned animal-skin variety. The best of these is rabbit skin glue.
+There is no suitable alternative, as for all joints, a wood-to wood contact is essential, with no film of
+glue between the two pieces. This type of glue is immensely strong, does not deteriorate with age as long as it is kept dry,
+and does not leave a visible glue line. Most importantly, the joint is reversible with the application of heat and / or moisture,
+enabling repairs to be carried out without further damage occurring during the dismantling.
 ```
 
 
