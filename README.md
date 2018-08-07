@@ -17,6 +17,24 @@ is opened out like the pages of a book. As this joint is on the centre line of t
 it makes a useful datum line, as does the back joint if a two-piece back is being used.
 
 Wood thickest in the centre under the bridge.
+
+Thepine should be quite white and brilliant like silk when split open, avoiding anything like a reddish tinge, which indicates
+a most unhealthy growth. The grain must not be too close or too wide, and must be disposed evenly and straight from
+top to bottom of the belly. The grain of the back should also run from top to bottom of the instrument. One is often asked,
+why the belly should not have the grain setting crossways, and it is often argued that the best makers have sometimes
+cut their backs so that the grain ran across them.
+
+The vibrations are transmitted along the fibres of wood quickest in this position and under these circumstances, and in the second it will be remarked that the tone of the Cremonese masterpieces is always most brilliant when this perpendicular setting of the
+grain has been adhered to. Care must be taken to select the pine neither too hard nor too soft in texture, and without any
+defect, knot, stain, or other fault.
+
+when similarly struck, the front and back, produce the same note.
+
+Maple is much more slow to vibrate.
+
+If the plates were of the same thickness, but being made of different thicknesses, the back, when finished, is about a tone higher than the belly when finished by the cutting of the ff holes and the affixing of the bass bar.
+
+If the difference were less than a tone, the tone of the instrument would be throbbing, and if more than a tone an even more unsatisfactory result would be obtained. To ascertain the normal tone of a plate of wood, it must be clamped firmly at a point where two nodal lines cross one another,* and vibrated with a bow drawn along the edge. The note it then renders is the lowest of which it is capable, and is called "its normal tone."
 ```
 
 ### Back (or ribs as they are more commonly known)
