@@ -15,6 +15,8 @@ For the front (or belly), straight-grained spruce is required. A fairly fine to 
 grain width is ideal. The front is almost always made from two pieces; the wedge of timber 
 is opened out like the pages of a book. As this joint is on the centre line of the instrument, 
 it makes a useful datum line, as does the back joint if a two-piece back is being used.
+
+Wood thickest in the centre under the bridge.
 ```
 
 ### Back (or ribs as they are more commonly known)
