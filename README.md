@@ -1,5 +1,7 @@
 # Notes on making a violin.
 
+## Taken from many different sources, books and online. Learning to build one.
+
 ## Materials
 
 ### Front (or belly)
