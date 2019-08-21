@@ -2,7 +2,7 @@
 
 ## Learning to build a violin and using github as my notepad. Below notes are from many different sources.
 
-## Materials
+# Materials
 
 ### Front (or belly)
 
@@ -10,27 +10,20 @@
 The finest, air-dried, highly figured maple 50 years old or more is now virtually unobtainable, 
 unless you are lucky enough to know of a violin maker who is retiring and disposing of his stock.
 
-It is desirable that the wood for the major parts be quarter or radially sawn 
-(or split if you can get it, although this carries quite a premium).
+It is desirable that the wood for the major parts be quarter or radially sawn (or split if you can get it, although this carries quite a premium).
 
-For the front (or belly), straight-grained spruce is required. A fairly fine to medium 
-grain width is ideal. The front is almost always made from two pieces; the wedge of timber 
-is opened out like the pages of a book. As this joint is on the centre line of the instrument, 
-it makes a useful datum line, as does the back joint if a two-piece back is being used.
+For the front (or belly), straight-grained spruce is required. A fairly fine to medium grain width is ideal. The front is almost always made from two pieces; the wedge of timber is opened out like the pages of a book. As this joint is on the centre line of the instrument, it makes a useful datum line, as does the back joint if a two-piece back is being used.
 
 Wood thickest in the centre under the bridge.
 
-Thepine should be quite white and brilliant like silk when split open, avoiding anything like a reddish tinge, which indicates
-a most unhealthy growth. The grain must not be too close or too wide, and must be disposed evenly and straight from
+The pine should be quite white and brilliant like silk when split open, avoiding anything like a reddish tinge, which indicates a most unhealthy growth. The grain must not be too close or too wide, and must be disposed evenly and straight from
 top to bottom of the belly. The grain of the back should also run from top to bottom of the instrument. One is often asked,
 why the belly should not have the grain setting crossways, and it is often argued that the best makers have sometimes
 cut their backs so that the grain ran across them.
 
-The vibrations are transmitted along the fibres of wood quickest in this position and under these circumstances, and in the second it will be remarked that the tone of the Cremonese masterpieces is always most brilliant when this perpendicular setting of the
-grain has been adhered to. Care must be taken to select the pine neither too hard nor too soft in texture, and without any
-defect, knot, stain, or other fault.
+The vibrations are transmitted along the fibres of wood quickest in this position and under these circumstances, and in the second it will be remarked that the tone of the Cremonese masterpieces is always most brilliant when this perpendicular setting of the grain has been adhered to. Care must be taken to select the pine neither too hard nor too soft in texture, and without any defect, knot, stain, or other fault.
 
-when similarly struck, the front and back, produce the same note.
+When similarly struck, the front and back, produce the same note.
 
 Maple is much more slow to vibrate.
 
@@ -49,22 +42,20 @@ Ribs - 1mm
 ### Internal Blocks
 
 ```
-Corner blocks are always formed out of well seasoned brown willow, 
-not white willow following closely once again the rule of stradivarius.
+Corner blocks are always formed out of well seasoned brown willow, not white willow following closely once again the rule of stradivarius.
 ```
 
 ### Linings
 
 ```
-Linings are always formed out of well seasoned brown willow, 
-not white willow following closely once again the rule of stradivarius.
+Linings are always formed out of well seasoned brown willow, not white willow following closely once again the rule of stradivarius.
 Lining 2mm by 5mm
 ```
 
-### Bassbar
+### Bass bar
 
 ```
-The bassbar is always of spruce, of similar or slightly narrower grain than the belly.
+The bass bar is always of spruce, of similar or slightly narrower grain than the belly.
 ```
 
 ### Fingerboard, pegs, nut, tailpiece, chinrest, saddle and endpin.
@@ -101,13 +92,17 @@ Mold is 4.5mm smaller from the external edge of the violin.
 The only type of glue to use for a violin is the old-fashioned animal-skin variety. The best of these is rabbit skin glue.
 There is no suitable alternative, as for all joints, a wood-to wood contact is essential, with no film of
 glue between the two pieces. This type of glue is immensely strong, does not deteriorate with age as long as it is kept dry,
-and does not leave a visible glue line. Most importantly, the joint is reversible with the application of heat and / or moisture,
-enabling repairs to be carried out without further damage occurring during the dismantling.
+and does not leave a visible glue line. Most importantly, the joint is reversible with the application of heat and / or moisture, enabling repairs to be carried out without further damage occurring during the dismantling.
 ```
 
-### Draft of the mold. Below diagram of the mould is based on many online sources. It is based on some of my calculations, it's not correct and not tested.
+# Draft of the mold. 
+
+Below diagram of the mould is based on many online sources. It is based on some of my calculations, it's not correct and not tested.
 
 https://github.com/tretos53/Violin/blob/master/mold.pdf
+
+
+# Other notes
 
 #### From: https://www.youtube.com/user/kevinleeluthier/videos
 
