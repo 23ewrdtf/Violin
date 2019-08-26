@@ -1,5 +1,7 @@
 # Notes on making a violin.
 
+Best Videos I found so far: https://davidesora.altervista.org/video/fasce-e-forma/
+
 ## Learning to build a violin and using github as my notepad. Below notes are from many different sources.
 
 # Materials
